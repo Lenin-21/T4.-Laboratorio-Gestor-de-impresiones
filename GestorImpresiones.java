@@ -2,7 +2,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Scanner;
 
-public class GestorImpresione {
+public class GestorImpresiones {
 
     public static void main(String[] args) {
         // Use Deque<String> para ambas variables
